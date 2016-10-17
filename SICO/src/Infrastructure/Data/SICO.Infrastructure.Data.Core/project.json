@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Autofac": "4.1.1",
+    "EntityFramework": "6.1.3",
+    "EntityFramework.Extended": "6.1.0.168",
+    "LinqKit.EntityFramework": "1.0.4",
+    "NETStandard.Library": "1.6.0",
+    "SICO.Domain.Core": "1.0.0-*",
+    "SICO.Infrastructure.CrossCutting": "1.0.0-*",
+    "System.Data.Common": "4.1.0",
+    "Z.EntityFramework.Extensions": "3.10.15"
+  },
+
+  "frameworks": {
+    "net461": {}
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\aretuerto\Source\Repos\Sistema Comercial\SICO\src\Database\SICO.Database\bin\Debug\SICO.Database.dacpac
+C:\Users\aretuerto\Source\Repos\Sistema Comercial\SICO\src\Database\SICO.Database\bin\Debug\SICO.Database.dll
+C:\Users\aretuerto\Source\Repos\Sistema Comercial\SICO\src\Database\SICO.Database\bin\Debug\SICO.Database.pdb
+C:\Users\aretuerto\Source\Repos\Sistema Comercial\SICO\src\Database\SICO.Database\obj\Debug\Model.xml
+C:\Users\aretuerto\Source\Repos\Sistema Comercial\SICO\src\Database\SICO.Database\obj\Debug\refactor.xml
+C:\Users\aretuerto\Source\Repos\Sistema Comercial\SICO\src\Database\SICO.Database\obj\Debug\postdeploy.sql
+C:\Users\aretuerto\Source\Repos\Sistema Comercial\SICO\src\Database\SICO.Database\obj\Debug\predeploy.sql
+C:\Users\aretuerto\Source\Repos\Sistema Comercial\SICO\src\Database\SICO.Database\obj\Debug\SICO.Database.dll
+C:\Users\aretuerto\Source\Repos\Sistema Comercial\SICO\src\Database\SICO.Database\obj\Debug\SICO.Database.pdb

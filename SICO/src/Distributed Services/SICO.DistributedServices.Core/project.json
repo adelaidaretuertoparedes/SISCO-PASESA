@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "DocumentFormat.OpenXml": "2.5.0",
+    "Microsoft.AspNetCore.Mvc": "1.0.1",
+    "NETStandard.Library": "1.6.0",
+    "WindowsBase": "4.6.1055"
+  },
+
+  "frameworks": {
+    "net461": {
+    }
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "projects": [ "src", "test", "src/Infrastructure/Data", "src/Domain", "src/Distributed Services", "src/Application", "src/Infrastructure/CrossCutting" ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Autofac": "4.1.0",
+    "AutoMapper": "5.1.1",
+    "SICO.Application.Core": "1.0.0-*",
+    "SICO.Domain.Core": "1.0.0-*",
+    "SICO.Domain.Main": "1.0.0-*",
+    "System.ComponentModel.Annotations": "4.1.0",
+    "FluentValidation": "6.4.0-beta3",
+    "System.Reflection.TypeExtensions": "4.1.0",
+    "Microsoft.EntityFrameworkCore": "1.0.1",
+    "SICO.Infrastructure.Data.Core": "1.0.0-*",
+    "SICO.Infrastructure.Data.Main": "1.0.0-*"
+  },
+
+  "frameworks": {   
+    "net461": {
+    }
+  }
+}

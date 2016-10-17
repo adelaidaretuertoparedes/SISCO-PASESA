@@ -1,0 +1,13 @@
+{
+    "name": "sico.presentation.web",
+    "private": true,
+    "dependencies": {
+        "polymer": "Polymer/polymer#^1.2.0",
+        "vaadin-grid": "^1.1.2",
+        "font-awesome":"4.6.3"
+    },
+    "devDependencies": {
+        "web-component-tester": "*",
+        "test-fixture": "PolymerElements/test-fixture#^1.0.0"
+    }
+}
